@@ -1,0 +1,22 @@
+How the web works:
+
+In your own terms, define the following terms:
+
+What is HTTP?
+HTTP stands for hypertext transfer protocol
+What is a URL?
+Uniform resource locator
+What is DNS?
+Domain name service
+What is a query string?
+A portion of the url used to pass data to a web or back end application using a key value pair format
+What are two HTTP verbs and how are they different?
+GET and POST; GET retrieves a page but does not submit anything, POST modifies a page with information submitted by the end user
+What is an HTTP request?
+A request from a client to a server using HTTP protocol
+What is an HTTP response?
+This is what the HTTP server sends back in response to the client HTTP request.
+What is an HTTP header? Give a couple examples of request and response headers you have seen.
+An HTTP header is a part of the HTTP request used to provide additional optional information, in either request or response form.
+What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser?
+The browser resolves the page using DNS, makes a request to the page, sends a response (the web page, if available/if response 200), and then renders the page.
